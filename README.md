@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see a l
 
 ## Inspiration
 
-This project was inspired by [this](https://github.com/devoups-off/sorting-app) other project. I wanted to try to make a similar project using Next.js and TailwindCSS to train my react skills and learn more about Next.js. I also wanted to put my own touch on the project.
+This project was inspired by [this](https://github.com/devoups-off/sorting-app) other project by [devoups-off](https://github.com/devoups-off). I wanted to try to make a similar project using Next.js and TailwindCSS to train my react skills and learn more about Next.js. I also wanted to put my own touch on the project.
 
 I thought it would be a good idea to implement the sorting algorithms myself to train what I learned in my Data Structures University class.
 
